@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremie Barhabazi</h1>
 <h3 align="center">Software engineering student</h3>
 
-- 🌱 I’m currently learning **react and docker**
-
 - 📫 How to reach me **barhabazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
