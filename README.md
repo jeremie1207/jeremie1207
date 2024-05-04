@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremie
 
-🧑‍🎓  Student in Software engineering at [the University of Ottawa](https://www.uottawa.ca)<br/>
+🧑‍🎓 Student in Software engineering at [the University of Ottawa](https://www.uottawa.ca)<br/>
 
 💭 Currently learning about [Spring Boot](https://roadmap.sh/spring-boot/)!<br/>
 
