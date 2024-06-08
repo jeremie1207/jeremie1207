@@ -2,7 +2,7 @@
 
 🧑‍🎓 Student in Software engineering at [the University of Ottawa](https://www.uottawa.ca)<br/>
 
-💭 Currently learning about [JavaScript][(https://fr.wikipedia.org/wiki/C_Sharp))](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript)!<br/>
+💭 Currently learning about [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript)!<br/>
 
 
 ## 🌐 Socials:
