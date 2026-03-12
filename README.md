@@ -18,6 +18,6 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚Full-stack web development**
+- 🌱 I'm currently learning: **📚Frontend web development**
 
 
